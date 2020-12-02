@@ -3,11 +3,13 @@
 I am currently studying **computer science** at UFPEL and working as a **front-end** and **mobile** developer at Nave.rs. I have separated part of my free time to study the GoStack bootcamp (offered by RocketSeat) in addition to, of course, playing CS and LOL 🤓
 
 
+<p align="center">
 
-<figure align="center">
+
 <img align="center" alt="GIF" src="https://media3.giphy.com/media/TgITYhN9sPj4aAOagG/giphy.gif" />
-<figcaption><i>me finding Jquery solutions at Stackoverflow</i></figcaption>
-</figure>
+  
+<p align="center"><i>me finding Jquery solutions at Stackoverflow</i></p>
+ </p>
 
 
 
